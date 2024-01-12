@@ -7,7 +7,7 @@ Components used:
 RP2040 Zero(from Waveshare or chinese copy)
 https://a.aliexpress.com/_EQsV7VT
 
-4 key flexible nupad
+4 key flexible numpad
 https://a.aliexpress.com/_EJjBgLL
 
 
